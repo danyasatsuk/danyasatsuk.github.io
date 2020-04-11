@@ -1,3 +1,14 @@
-body {
-    margin: 0;
-}
+            html {
+                background: black;
+            }
+            body {
+                margin: 0;
+                background-image: url('https://i.imgur.com/M63xg8K.png%27);
+                background-size: 100%;
+                background-position-y: -180px;
+                background-repeat: no-repeat;
+            }
+            .shop_goods {
+                margin-top: 700px;
+                background-color: none;
+            }

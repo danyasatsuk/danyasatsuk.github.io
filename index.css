@@ -4,6 +4,7 @@ html {
 body {
     margin: 0;
     background-image: url('https://i.imgur.com/M63xg8K.png%27');
+    background-color: black;
     background-size: 100%;
     background-position-y: -180px;
     background-repeat: no-repeat;
